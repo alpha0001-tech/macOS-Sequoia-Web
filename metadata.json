@@ -1,0 +1,5 @@
+{
+  "name": "macOS Sequoia Web",
+  "description": "A web-based simulation of the macOS Sequoia desktop environment featuring a working window manager, dock, and functional system apps.",
+  "requestFramePermissions": []
+}
